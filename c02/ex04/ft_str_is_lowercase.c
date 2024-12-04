@@ -14,6 +14,6 @@ int ft_str_is_lowercase(char *str)
 #include<stdio.h>
 int main ()
 {
-    char str[]="P";
+    char str[]="1";
     printf("%d\n",ft_str_is_lowercase(str));
 }
